@@ -1,4 +1,5 @@
 {
+  "version": "0.0.1",
   "name": "cosmjs-monorepo-root",
   "description": "Transaction codec and client to communicate with any wasmd blockchain",
   "private": true,
